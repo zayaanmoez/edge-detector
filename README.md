@@ -1,6 +1,6 @@
-Edge Detector
+### Edge Detector
 
-Implmentation of the Sobel Edge Detector with a Sticks Filter 
+Implmentation of the Canny Edge Detector with a Sticks Filter 
 
 References:
 R. N. Czerwinski, D. L. Jones and W. D. O'Brien, "Line and boundary detection in speckle images," in IEEE Transactions on Image Processing, vol. 7, no. 12, pp. 1700-1714, Dec. 1998, doi: 10.1109/83.730381.
